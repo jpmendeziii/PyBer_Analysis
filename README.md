@@ -1,16 +1,17 @@
 # PyBer_Analysis
 Analyze and visualize ride-sharing data using the power of Python, Pandas and Matplotlib
-Deliverable 3 Instructions
-Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
 
+## Deliverable 3 Instructions
+Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
 The analysis should contain the following:
 
-Overview of the analysis: Explain the purpose of the new analysis.
+### Overview of the analysis: Explain the purpose of the new analysis.
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
+
+## Deliverable 3 Requirements
+* Structure, Organization, and Formatting (6 points)
+* The written analysis has the following structure, organization, and formatting:
 
 ## DELIVERABLE 3 RUBRIC
 ### There is a title, and there are multiple sections. (2 pt)
@@ -19,18 +20,15 @@ The written analysis has the following structure, organization, and formatting:
 
 ## Analysis (14 points)
 The written analysis has the following:
-
 ### Overview of the analysis:
 The purpose of the new analysis is well defined. (3 pt)
-
 ### Results:
 There is a description of the differences in ride-sharing data among the different city types. 
 Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-
 ### Summary:
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 
-### Submission
+## Submission
 Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
 
 As a reminder, the deliverables for this Challenge are as follows:
