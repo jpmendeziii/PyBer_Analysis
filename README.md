@@ -9,6 +9,17 @@ The analysis should contain the following:
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
+![Deliverable1_1_3.jpg](Deliverable1_1_3.jpg)
+![Deliverable1_4_6.jpg](Deliverable1_4_6.jpg)
+![Deliverable1_7_8.jpg](Deliverable1_7_8.jpg)
+![Deliverable2_1_2.jpg](Deliverable2_1_2.jpg)
+![Deliverable2_3_4.jpg](Deliverable2_3_4.jpg)
+![Deliverable2_5.jpg](Deliverable2_5.jpg)
+![Deliverable2_6_7.jpg](Deliverable2_6_7.jpg)
+![Deliverable2_8_part1.jpg](Deliverable2_8_part1.jpg)
+![Deliverable2_8_part2.jpg](Deliverable2_8_part2.jpg)
+![Deliverable2_8_output_chart.jpg](Deliverable2_8_output_chart.jpg)
+
 ## Deliverable 3 Requirements
 * Structure, Organization, and Formatting (6 points)
 * The written analysis has the following structure, organization, and formatting:
