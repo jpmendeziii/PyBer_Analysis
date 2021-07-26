@@ -1,5 +1,10 @@
 # PyBer_Analysis
-Analyze and visualize ride-sharing data using the power of Python, Pandas and Matplotlib
+## Analyze and visualize ride-sharing data using the power of Python, Pandas and Matplotlib
+### Originally the [PyBer.ipynb](PyBer.ipynb) report had the following deliverables:
+* Verify, import, and merge data frames.
+* Create bubble charts that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
+* There was also a mean, median and mode data calculated for each city type.
+* Numerous bubble charts, box and whisker plots and pie charts showing the total percent of total fares, rides, and drivers.
 
 ## Deliverable 3 Instructions
 Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
