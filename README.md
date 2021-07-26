@@ -8,7 +8,7 @@
 
 ### However, Mr. Visualize changed the scope of the Pyber report and there are new deliverables.  Utilizing Python, Pandas and Matplotlib, there will be a new data frame summary created for ride-sharing data by city type.  The other deliverable output is a multiple-line graph that shows the total weekly fares for each city type.  
 
-## Results of Deliverable 1 - New Data Summary for each City Type
+## Results of Deliverable 1 - New Data Summary for each City Type.
 
 ![Deliverable1_1_3.jpg](Deliverable1_1_3.jpg)
 ### First the total drivers, rides and sum of fares were calculated by use of the groupby function for their respective population types.
@@ -20,6 +20,7 @@
 * This disparity also is displayed in the overall fares which the urban total fares accounts for 62.7% of the cash flow generation.
 * Since there are more than 2300 less drivers in rural areas compared to urban areas, the average fare per rural driver is 71% more than the suburban driver and a whopping 235% more than the urban driver. 
 
+## Summary and Results of Deliverable 2 - Weekly Fare Data for each City Type and Chart.
 ![Deliverable2_1_2.jpg](Deliverable2_1_2.jpg)
 ![Deliverable2_3_4.jpg](Deliverable2_3_4.jpg)
 ![Deliverable2_5.jpg](Deliverable2_5.jpg)
