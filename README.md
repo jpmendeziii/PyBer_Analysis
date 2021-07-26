@@ -6,6 +6,8 @@
 * There was also a mean, median and mode data calculated for each city type.
 * Numerous bubble charts, box and whisker plots and pie charts showing the total percent of total fares, rides, and drivers.
 
+### However, Mr. Visualize changed the scope of the Pyber report and there are new deliverables.  Utilizing Python, Pandas and Matplotlib, there will be a new data frame summary created for ride-sharing data by city type.  The other deliverable output is a multiple-line graph that shows the total weekly fares for each city type.  
+
 ## Deliverable 3 Instructions
 Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
 The analysis should contain the following:
