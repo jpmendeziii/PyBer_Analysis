@@ -8,16 +8,12 @@
 
 ### However, Mr. Visualize changed the scope of the Pyber report and there are new deliverables.  Utilizing Python, Pandas and Matplotlib, there will be a new data frame summary created for ride-sharing data by city type.  The other deliverable output is a multiple-line graph that shows the total weekly fares for each city type.  
 
-## Deliverable 3 Instructions
-Use your repository README file to write your analysis of how to address any disparities in the ride-sharing data among the city types.
-The analysis should contain the following:
-
-### Overview of the analysis: Explain the purpose of the new analysis.
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Results of Deliverable 1 - New Data Summary for each City Type
 
 ![Deliverable1_1_3.jpg](Deliverable1_1_3.jpg)
+### First the total drivers, rides and sum of fares were calculated by use of the groupby function for their respective population types.
 ![Deliverable1_4_6.jpg](Deliverable1_4_6.jpg)
+### Then the average fare per ride per city type and the average fare per driver by city types were calculated.  The rough draft of the summary was formulated.
 ![Deliverable1_7_8.jpg](Deliverable1_7_8.jpg)
 ![Deliverable2_1_2.jpg](Deliverable2_1_2.jpg)
 ![Deliverable2_3_4.jpg](Deliverable2_3_4.jpg)
