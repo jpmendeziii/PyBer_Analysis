@@ -13,8 +13,14 @@
 ![Deliverable1_1_3.jpg](Deliverable1_1_3.jpg)
 ### First the total drivers, rides and sum of fares were calculated by use of the groupby function for their respective population types.
 ![Deliverable1_4_6.jpg](Deliverable1_4_6.jpg)
-### Then the average fare per ride per city type and the average fare per driver by city types were calculated.  The rough draft of the summary was formulated.
+### Then the average fare per ride per city type and the average fare per driver by city types were calculated.  The rough draft of the summary was formulated.  The most significant takeaways from the data are as follows:
+* 
 ![Deliverable1_7_8.jpg](Deliverable1_7_8.jpg)
+### The data frame was then cleaned up by removing the index name, and the summary was cleaned up by formatting the columns with their respective significant digits.  The most significant findings are as follows:
+* The number of total rides from urban / suburban / rural is 13:5:1 – that shows a massive disparity in the number of rides from urban when compared to its suburban and rural counterparts.
+* This disparity also is displayed in the overall fares which the urban total fares accounts for 62.7% of the cash flow generation.
+* Since there are more than 2300 less drivers in rural areas compared to urban areas, the average fare per rural driver is 71% more than the suburban driver and a whopping 235% more than the urban driver. 
+
 ![Deliverable2_1_2.jpg](Deliverable2_1_2.jpg)
 ![Deliverable2_3_4.jpg](Deliverable2_3_4.jpg)
 ![Deliverable2_5.jpg](Deliverable2_5.jpg)
