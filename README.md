@@ -22,7 +22,9 @@
 
 ## Summary and Results of Deliverable 2 - Weekly Fare Data for each City Type and Chart.
 ![Deliverable2_1_2.jpg](Deliverable2_1_2.jpg)
+### The pyber data frame was read and sorted by the groupby function for date and type, then differentiated for the sum of fares.
 ![Deliverable2_3_4.jpg](Deliverable2_3_4.jpg)
+### The index was reset from the merged data frame, then a pivot table was created with the “date” as the index, “type” as the columns, then “fare” as values. 
 ![Deliverable2_5.jpg](Deliverable2_5.jpg)
 ![Deliverable2_6_7.jpg](Deliverable2_6_7.jpg)
 ![Deliverable2_8_part1.jpg](Deliverable2_8_part1.jpg)
