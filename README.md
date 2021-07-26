@@ -26,42 +26,21 @@
 ![Deliverable2_3_4.jpg](Deliverable2_3_4.jpg)
 ### The index was reset from the merged data frame, then a pivot table was created with the “date” as the index, “type” as the columns, then “fare” as values. 
 ![Deliverable2_5.jpg](Deliverable2_5.jpg)
+### The loc function was then utilized for the dates from 1/1/2019 to 4/29/2019.
 ![Deliverable2_6_7.jpg](Deliverable2_6_7.jpg)
+### The “date” index was set to data time data type and verified using the info function.
 ![Deliverable2_8_part1.jpg](Deliverable2_8_part1.jpg)
 ![Deliverable2_8_part2.jpg](Deliverable2_8_part2.jpg)
 ![Deliverable2_8_output_chart.jpg](Deliverable2_8_output_chart.jpg)
+### Finally, a new data frame was created utilizing the resample function by the week and able to obtain the sum of the fares for each week.  Then a plot was created using the object-oriented interface method.  Matplotlib was imported and the “fivethirtyeight” graph style was used.  
+## Deliverable 2 Key Takeaways
+* The line graph of weekly fare data confirms the summation of market share dominated by urban fares.
+* It is also worth noting the weekly sum of fares data is consistent, ranging from $2000 to $2500.
+* Weekly fare data is not nearly as consistent for rural and suburban types, there is a ton of variance for each respective city type.  
+* It is worth noting there were weeks where the rural city type got less than $100 in fares for the week.  It is unsure the cost of overhead, but these numbers are meager and need to be addressed by the CEO and COO.
 
-## Deliverable 3 Requirements
-* Structure, Organization, and Formatting (6 points)
-* The written analysis has the following structure, organization, and formatting:
-
-## DELIVERABLE 3 RUBRIC
-### There is a title, and there are multiple sections. (2 pt)
-### Each section has a heading and subheading. (2 pt)
-### Links to images are working and displayed correctly. (2 pt)
-
-## Analysis (14 points)
-The written analysis has the following:
-### Overview of the analysis:
-The purpose of the new analysis is well defined. (3 pt)
-### Results:
-There is a description of the differences in ride-sharing data among the different city types. 
-Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-### Summary:
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-
-## Submission
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
-
-As a reminder, the deliverables for this Challenge are as follows:
-
-Deliverable 1: A ride-sharing summary DataFrame by city type.
-Deliverable 2: A multiple-line chart of total fares for each city type.
-Deliverable 3: A written report for the PyBer analysis (README.md).
-Upload the following to your PyBer_Analysis GitHub repository:
-
-The PyBer_Challenge.ipynb file.
-The results need to be kept populated in the PyBer_Challenge.ipynb file. Do not clear the output from the PyBer_Challenge.ipynb file before uploading to GitHub.
-The “Resources” folder with the city_data.csv and ride_data.csv files.
-The “analysis” folder with the PyBer_fare_summary.png.
-An updated README.md that has your written analysis.
+## Conclusion and Recommendations
+###  From the findings of this analysis and knowledge of the ride-sharing business model, here are some things for the C-Level leadership to consider:
+1.	These data frames had no information on rider feedback about drivers – it would be wise to incentivize your best drivers, especially in urban areas to represent PyBer and perform excellent customer service.
+2.	Consider raising prices during non-peak times in suburban and rural cities to balance out the weekly troughs in revenue shown in the final visualization.  This can surely be accomplished in suburban areas since they will have a higher willingness to pay.
+3.	Consider shutting down rural service in non-peak times – the overhead cost to operate the service is more than $100 per week, therefore PyBer operates at a significant loss servicing rural areas.
